@@ -1,24 +1,114 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my skills<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi, I'm Nahashon Mwendwa
 
+## 🚀 Full-Stack Developer | Laravel & React Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/nahashon-mwendwa-a7a319312/)](https://linkedin.com/in/Nahashon Mwendwa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nashonmwendwa0@gmail.com) 
+I build scalable web applications, business systems, and production-ready platforms using modern backend and frontend technologies.
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nahashon-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nahashon-source&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahashon-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working on enterprise logistics and freight management systems, where I develop and maintain live modules used by real users in production environments.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nahashon-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nahashon-source&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy transforming complex workflows into efficient, user-friendly digital solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nahashon-source&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+* 🔭 Currently building and maintaining logistics and freight management systems
+* 💼 Experienced in developing live production applications using Laravel, PHP, React, JavaScript, and MySQL
+* 🌱 Continuously improving my skills in backend architecture, API development, performance optimization, and scalable systems
+* 🚀 Built and deployed multiple business websites and internal management systems currently in active use
+* 🤝 Open to collaborating on full-stack applications, business systems, and modern web platforms
+* 💬 Ask me about Laravel, PHP, React, APIs, MySQL, deployment, and UI implementation
+* ⚡ Passionate about solving real business problems with technology
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Nahashon%20Mwendwa)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nashonmwendwa0@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+## Backend Development
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+---
+
+## Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-4ED1C5?style=for-the-badge\&logo=chakraui\&logoColor=white)
+
+---
+
+## Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+---
+
+## Deployment & Tools
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+# 📌 Featured Work
+
+### 🚚 Logistics & Freight Management System
+
+* Developed and maintained multiple logistics modules using Laravel and PHP
+* Built production-ready workflows used by active users
+* Worked on backend logic, CRUD systems, authentication, reporting, and operational processes
+
+### 🌐 Corporate & Business Websites
+
+* Designed and developed responsive business websites
+* Implemented modern UI/UX practices
+* Deployed live applications for real-world use
+
+### ⚙️ Full-Stack Web Applications
+
+* Built REST APIs and integrated frontend/backend systems
+* Developed authentication and role-based access systems
+* Worked with databases, deployment pipelines, and production debugging
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nahashon-source\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=nahashon-source\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahashon-source\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nahashon-source\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+# 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=nahashon-source\&icon=0\&color=0)
