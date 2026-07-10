@@ -1,24 +1,40 @@
+<div align="center">
+
 # 👋 Hi, I'm Nahashon Mwendwa
 
-## Full-Stack Developer | Laravel • React • PHP • JavaScript
+### Full-Stack Software Developer
 
-I build modern, scalable web applications that solve real business problems.
+Building scalable web applications with **Laravel**, **React**, **PHP**, and modern backend technologies.
 
-My expertise spans backend development with Laravel and PHP, frontend development with React, and designing RESTful APIs that power responsive, user-friendly applications. I enjoy transforming complex business processes into reliable digital solutions that are easy to use and maintain.
+<p>
+    <a href="mailto:nashonmwendwa0@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    </a>
+    <a href="https://linkedin.com/in/nahashon-mwendwa">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=nahashon-source&style=for-the-badge&color=blue" />
+</p>
 
-Currently, I develop and maintain logistics and freight management systems used in production while continuously expanding my knowledge of software architecture, performance optimization, and cloud deployment.
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🔭 Building logistics and freight management systems
-- 💻 Experienced in Laravel, PHP, React, JavaScript, and MySQL
-- ⚙️ Developing REST APIs and full-stack business applications
-- 🌱 Continuously learning backend architecture, scalable systems, and cloud technologies
-- 🤝 Open to collaborating on Laravel, React, and full-stack projects
-- 💬 Ask me about Laravel, PHP, React, APIs, MySQL, Git, and deployment
-- ⚡ Passionate about creating software that improves business operations
+I'm a Full-Stack Developer passionate about building software that solves real business challenges.
+
+I currently develop and maintain **production logistics and freight management systems**, where I build new modules, optimize existing workflows, and create scalable backend solutions.
+
+I enjoy turning business requirements into clean, efficient, and maintainable software.
+
+### What I'm Doing
+
+- 🚀 Building production logistics systems
+- 🌱 Learning software architecture & system design
+- 💡 Building scalable APIs
+- ⚡ Creating modern React applications
+- 📚 Improving backend performance and clean code practices
 
 ---
 
@@ -26,89 +42,168 @@ Currently, I develop and maintain logistics and freight management systems used 
 
 ## Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,flask,fastapi" />
+</p>
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap" />
+</p>
 
 ## Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase" />
+</p>
 
-## Tools & Deployment
+## Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 ## 🚚 Logistics & Freight Management System
 
-- Developed and maintained production modules using Laravel and PHP
-- Built CRUD functionality, authentication, reporting, and operational workflows
-- Optimized business processes through reliable backend solutions
+Production logistics platform built using Laravel.
+
+### Features
+
+- Authentication & Authorization
+- Quotation Management
+- Freight Booking
+- CRM Integration
+- Dashboard & Reports
+- User Management
+- Business Workflow Automation
 
 ---
 
-## 🌐 Corporate Business Websites
+## 🌐 Business Websites
 
-- Designed responsive websites using React
-- Implemented clean, modern user interfaces
-- Delivered production-ready business websites
+Modern responsive websites for businesses featuring:
 
----
-
-## ⚙️ Full-Stack Applications
-
-- Built RESTful APIs
-- Connected frontend applications to backend services
-- Implemented authentication and role-based authorization
-- Designed relational databases and deployment workflows
+- Responsive UI
+- Contact Forms
+- Landing Pages
+- Service Pages
+- SEO-friendly structure
 
 ---
 
-# 📈 GitHub Statistics
+## ⚙️ Full Stack Applications
 
-![](https://github-readme-stats.vercel.app/api?username=nahashon-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+Developed applications with:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahashon-source&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=nahashon-source&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nahashon-source&theme=tokyonight&no-frame=true&margin-w=10)
+- Laravel REST APIs
+- React Frontend
+- Authentication
+- CRUD Operations
+- Database Design
+- API Integration
 
 ---
 
-# 🤝 Connect With Me
+# 📈 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahashon-mwendwa)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashonmwendwa0@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahashon-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahashon-source&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nahashon-source&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-> *"Building software that solves real-world business problems through clean, scalable, and maintainable code."*
+# 🏆 GitHub Achievements
 
-![](https://visitcount.itsvg.in/api?id=nahashon-source&icon=5&color=6)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nahashon-source&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahashon-source&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Software Architecture
+- Design Patterns
+- Clean Architecture
+- Docker
+- CI/CD
+- PostgreSQL
+- System Design
+- Performance Optimization
+
+---
+
+# 🤝 Open To
+
+- Freelance Projects
+- Full-Time Opportunities
+- Open Source Contributions
+- Backend Development
+- Full Stack Development
+- Laravel Projects
+- React Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nashonmwendwa0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nahashon-mwendwa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+*"First, solve the problem. Then, write the code."*
+
+**— John Johnson**
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
